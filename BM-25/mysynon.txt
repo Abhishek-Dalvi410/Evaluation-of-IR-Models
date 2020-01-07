@@ -1,0 +1,13 @@
+GB,gib,gigabyte,gigabytes
+MB,mib,megabyte,megabytes
+Russia,Russland,Россия,russians,russen,русские,россии,of Russia
+Syria,Syrian,Syrians,сириец,сирийцы,Сирия,Syrisch,Syrien,сирийский
+Germany,german,Немецкий,Германия,Deutschland,Deutschland
+refugee,Refugee,беженец,flüchtling,flüchtlinge,беженцы,Refugees,refugees,flüchtlings,беженец
+Terrorist,террорист,terrorist,terroristin
+month,месяц,Monat
+islam,игил
+worse,хуже,schlimmer
+migrant,мигрант,Migrant,migrate,wandern,мигрировать
+народ,people,die leute
+Европа,europe,europa,Europe,Europa
